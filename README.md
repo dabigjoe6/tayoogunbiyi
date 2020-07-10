@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello,
+
+Interested in Distributed Systems, Algorithms & Building Large Scale Software.
+
+Python, Golang. JavaScript Sometimes.
+Working on getting better at C++.
+
 
 <!--
 **tayoogunbiyi/tayoogunbiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
