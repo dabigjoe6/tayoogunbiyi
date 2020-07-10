@@ -1,9 +1,16 @@
 ### Hello,
 
-Interested in Distributed Systems, Algorithms & Building Large Scale Software.
+Computer Engineering Undergrad.
+
+Interested in Distributed Systems, Algorithms, Developer Tooling & Building Large Scale Software.
 
 Python, Golang. JavaScript Sometimes.
 Working on getting better at C++.
+
+Majorly doing open source work these days, contributing to:
+ - [Howdoi - instant coding answers via the command line] (https://github.com/gleitz/howdoi)
+ - [Httpie - a CLI, cURL-like tool for humans ] (https://github.com/jakubroztocil/httpie)
+ - [Beego - open-source, high-performance web framework for the Go programming language.] (https://github.com/astaxie/beego)  
 
 
 <!--
