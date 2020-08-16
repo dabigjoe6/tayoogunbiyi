@@ -7,11 +7,7 @@ Interested in Distributed Systems, Algorithms, Developer Tooling & Building Larg
 Python, Golang. JavaScript Sometimes.
 Working on getting better at C++.
 
-Majorly doing open source work these days, contributing to:
- - [Howdoi - instant coding answers via the command line] (https://github.com/gleitz/howdoi)
- - [Httpie - a CLI, cURL-like tool for humans ] (https://github.com/jakubroztocil/httpie)
- - [Beego - high-performance web framework built with Go.] (https://github.com/astaxie/beego)  
-
+Majorly doing open source work these days.
 
 <!--
 **tayoogunbiyi/tayoogunbiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
